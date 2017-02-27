@@ -1,0 +1,42 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	max-width: 97%;
+}
+section{
+	width: 90%;
+	margin:0 5%;
+}
+nav{
+	max-width: 70%;
+	margin: 0 auto;
+}	
+.form-group >.form-control {
+	max-width: 50%;
+}
+footer{
+	width: 60%;
+	margin: 0 auto;
+	height: 100%;
+
+}
+.logo-icon{
+	margin: 10px 10px;
+	width: 50px;
+	height: auto;
+
+}
+select{
+	max-width: 50%;
+}
+.asignatura-fixed{
+	position: fixed;
+	z-index: 1000;
+	top: 0;
+}
+.chart {
+  max-width: 100%; 
+  min-height: 250px;
+}
